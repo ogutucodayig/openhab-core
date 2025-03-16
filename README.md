@@ -15,7 +15,7 @@ It is picked up by the main [openHAB distribution](https://github.com/openhab/op
 
 This means that what you build is primarily an artifact repository of OSGi bundles that can be used within smart home products.
 
-## 1. Prerequisites
+## 1. Prerequisites LOL
 
 The build infrastructure is based on Maven. 
 If you know Maven already then there won't be any surprises for you. 
